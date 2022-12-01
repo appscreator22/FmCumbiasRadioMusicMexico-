@@ -13,12 +13,12 @@ function chillHop() {
             active: true,
         },
         {
-            name:"José 97.5",
-            artist: "José97.5",
+            name:"La Ranchera de Monterrey",
+            artist: "LaRancheradeMonterrey",
             cover: "https://img.freepik.com/vector-gratis/radio-plana-retro-ilustrada_23-2148812864.jpg",
             id: uuidv4(),
             color: ["#D7B0D5", "#CBDFE0"],
-            audio: "https://23263.live.streamtheworld.com/KLYYFMAAC.aac?dist=onlineradiobox",
+            audio: "https://streamingcwsradio30.com/8242/stream",
             active: false,
         },
         {

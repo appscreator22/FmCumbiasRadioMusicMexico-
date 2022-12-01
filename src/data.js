@@ -56,7 +56,7 @@ function chillHop() {
             color: ["#578CCE", "#E9D6D0"],
             audio: "https://us9.streamingpulse.com/ssl/tejanomusicnetwork",
             active: false,
-        },https://radioenhd.com/8088/;
+        },
         {
             name:"El Jefe 95.4 HD",
             artist: "ElJefe95.4HD",
